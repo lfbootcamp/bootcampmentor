@@ -1,0 +1,98 @@
+Subject: Are the certification exams stressing you out?
+
+Hi, there:
+
+The exams for the Cloud Engineer and Advanced Cloud Engineer Boot Camps seem to be the highest source of anxiety in the two programs. They should all be taken seriously, but with practice and planning, you can pass the certification exams.
+
+Do remember that:
+
+All the exams are “practical” exams. This means that you will be
+given tasks to perform and a virtual machine running your chosen Distro to
+implement those tasks. There are no multiple choice or fill-in-the-blank
+questions.
+
+These exams are difficult; when you pass, you will really know your craft
+because you have proven your knowledge and skills by actually performing
+tasks that you may need to perform in the job world.
+
+You can retake any of the certification exams; there is no shame in
+having to take an exam a second time. In fact, due to the high anxiety
+many of you experience, you may need the first exam in order to see what
+the environment is like and prove to yourself that you have learned many
+of the skills.
+
+Furthermore, your Certified Kubernetes Administrator (CKA)
+(https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+exam now has two attempts (per exam registration) to an exam simulator,
+provided by Killer.sh (https://killer.sh/). To access the simulator,
+Login to My Portal i(https://trainingportal.linuxfoundation.org/) and
+click the Start / Resume button, you should see a "Click here to access
+the Exam Simulator" link, which will be located in the "Schedule an Exam"
+step of the Exam Checklist. This is a great way to practice for this
+very difficult exam!
+
+There are a lot of resources that you need to take advantage of:
+
+The forums for these programs (Cloud-Engineer
+(https://forum.linuxfoundation.org/categories/cloud-engineer-boot-camp)
+and Advanced-Cloud-Engineer
+(https://forum.linuxfoundation.org/categories/advanced-cloud-engineer-boot-camp)
+Boot Camps) contain postings with questions and answers and even some
+information regarding the exams.
+
+There are web pages with resources for the LFCS-Exam
+(https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
+and the CKA-Exami
+(https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/).
+
+Fully explore these web pages as there are links to other resources.
+
+Also each web page has a section that covers “Domains & Competencies”
+covered by the exams; these lists can act as a checklist for your studies.
+
+Do be aware that the “Domains & Competencies” for the LFCS exam also
+includes items covered by the LFCE exam; only topics covered in LFS101x
+(https://www.edx.org/course/introduction-to-linux?index=product&queryID=66c7b6dbde379efa0b8f399da6cd4ea6&position=1)
+and LFS201 are covered in the LFCS exam.
+
+Practice, practice, practice. The Labs provide a good source of
+practice. Practice these Labs until you can do them without looking at
+the solutions. Then, expand them by changing the numbers and making the
+tasks more complex. For example, can you create a Logical Volume on an
+Encrypted Partition? How about creating five new user accounts, a new
+group, putting the users all in the new group and creating an email
+alias for this new group of users? The Labs are just a starting point,
+but provide a good foundation; real life is often not as simple.
+
+Make three or more passes through the list of tasks to perform on the
+exam. Look for “low hanging fruit” tasks—tasks that you know how
+to do because you practice them over and over. Next look for tasks that
+may be a little harder or take you a little longer. Finally, work on
+those tasks that you didn’t practice or were a complete surprise to
+you. Hopefully, by completing the tasks that you know how to do, you
+have enough points to pass the exam.
+
+For information regarding what you are not allowed to
+have when you are taking the exam, see rules-and-policies-list
+(https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook/exam-rules-and-policies).
+For information regarding what you are allowed to have
+during the exam, see certification-resources-allowed
+(https://docs.linuxfoundation.org/tc-docs/certification/certification-resources-allowed).
+
+Plan to examine various “man” pages during your practice. Get used
+to skimming man pages. Often the package related documents (found in
+/usr/share/doc/) have examples and more detailed information. You need
+to do all this ahead of the exam because you usually don’t have time
+during the exam to read and search through available information in any
+kind of detail!
+
+The group that puts together the exam and the “Domains &
+Competencies” is a totally separate group from the teaching/training
+staff. Exam questions are authoritatively answered by the exam group at
+Training-Support (https://trainingsupport.linuxfoundation.org/).
+
+The certification exams are difficult by design. Employers know that
+people who pass these exams have the knowledge and skills to do the job
+because they have proven that on the exams by doing real world tasks. With
+practice and planning, you can pass these difficult exams. Most of all,
+try to relax and not get stressed out. Good luck, but you can do it!

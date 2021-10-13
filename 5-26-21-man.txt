@@ -1,0 +1,37 @@
+Subject: The man command
+
+Hi there:
+
+Linux can have a steep learning curve. Practice will help that. Using
+the system will lead to familiarity. Referring to the manual pages will
+aid with learning.
+
+Tips for using the Manual pages:
+
+Manual (or man) pages are reference information and usually not tutorials.
+
+Often you use man pages to see which options to a command you need to use.
+
+Some man pages are short, while some pages are very long.
+
+It is rare to read a man page from top to bottom; they are very terse
+and loaded with information.
+
+Learn to use the man command to skim and search for the information you
+need in long, detailed man pages.
+
+While you are going through courses, refer to man pages for the commands
+you are using. Become familiar with various options and useful sections of
+the man pages for those commands you find that you use a lot in Labs or
+sound interesting to you. There is a wealth of information in man pages,
+but you have to practice reading them.
+
+In time, you will become comfortable with the man command and learn more
+about useful commands that you will add to your toolbox. Keep going;
+I know you can do it!
+
+Regards,
+
+Kevin--Bootcamp Mentor
+
+bootcampmentor@linuxfoundation.org

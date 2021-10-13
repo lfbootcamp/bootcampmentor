@@ -1,0 +1,81 @@
+Subject: What's after graduating the (Advanced) Cloud Engineer Boot Camp?
+
+Hi, there:
+
+After you put in all the hard work to complete courses and pass exams,
+you may ask yourself, "What's next?" This is a very good question. There
+is so much more you can do to remain involved with cloud technology, and
+just like most technology, it will continue to change as time goes on. To
+stay up to date and well informed, I suggest you become involved in some
+of the organizations working with cloud technologies. This certainly
+involves reading, but you may also want to attend in-person or online
+conferences in order to meet people who are working in the areas that
+interest you most.
+
+Another option is to become involved with open-source projects. You don't
+have to be a programmer to contribute to open source! Projects always
+need people to write documentation. Documents need to be proofread and
+the instructions followed to ensure they are accurate. Testing or quality
+assurance (QA) is very welcomed by open source projects. I encourage
+all of you to participate in the open source community if you can.
+
+What resources for cloud engineering are out there? In your online
+course materials, you may have already encountered some. My list is not
+a complete list, but a good start for you.
+
+You'll find a wealth of information and ways to continue your
+involvement with cloud technologies at the Linux Foundation
+(http://www.linuxfoundation.org/).
+
+Cloud Native Computing Foundation (http://www.cncf.io/) hosts critical
+components of the global technology infrastructure and is part of The
+Linux Foundation.
+
+The National Institute of Standards and Technology (NIST)
+(http://www.nist.gov/itl/cloud) is a U.S. government agency that focuses
+on emerging standards. This organization has done a considerable amount
+of work defining and providing good information on cloud computing. You
+may have similar agencies in your own country.
+
+OASIS (http://www.oasis-open.org/), the Organization for the Advancement
+of Structured Information Standards, is a global consortium focused on
+the creation and adoption of standards for electronic business.
+
+The Cloud Standards Customer Council (CSCC)
+(http://www.cloud-council.org./) is a combination of vendor and
+large corporate customers. It was established to focus on cloud best
+practices. It is operated by the Object Management Group (OMG).
+
+The Open Group (https://www.opengroup.org/) is a global consortium that
+enables the achievement of business objectives through IT standards. The
+group has a cloud working group and has lots of good source material
+available.
+
+The Open Cloud Computing Interface (OCCI) (http://occi-wg.org/), is made
+up of a set of open community-led specifications delivered through the
+Open Grid Forum.
+
+OpenStack (http://openstack.org/) is an open-source platform originated
+by Rackspace and NASA for building both public and private clouds.
+
+The Cloud Security Alliance (CSA) (http://cloudsecurityalliance.org/)
+was established to promote the use of best practices for providing and
+ensuring security within cloud computing and to educate people about
+the uses of cloud computing to help secure all other forms of computing.
+
+The Storage Networking Industry Association (SNIA) (http://www.snia.org/)
+is a trade organization focused on the networked storage industry. The
+cloud storage initiative focuses on the need for cloud storage standards.
+
+If you are interested in DevOps, IT Revolution (http://itrevolution.com/)
+is a good resource for articles and conferences.
+
+Do you have other resources that you use to further your cloud engineering
+education and continue to be involved in the cloud community? I would
+love to hear of resources from you, especially if you have organizations
+local to your country or continent.
+
+Remember, just because you get through several courses and pass exams
+does not mean that your journey is over. Things continue to change and
+evolve, and you will want to remain a part of it, so leverage these and
+other resources in your career. Remember, never stop learning!

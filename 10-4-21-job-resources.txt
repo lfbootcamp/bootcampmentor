@@ -1,0 +1,87 @@
+Subject: Cloud Engineer Boot Camp Mentor's Corner: Job Resources
+
+Hi, there:
+
+In my last message, I talked about ways you can stay involved and expand
+on cloud engineering technologies. By consulting various websites and
+attending conferences, you can continue to learn new technologies as
+they become available and make important new contacts within the industry.
+
+Many of you may not need to look for a new job because you are already
+employed by an employer willing to invest in your development; that's
+great! But, some of you financed this program all on your own with the
+dream of starting a new career in the area of cloud engineering. This
+is one of the most difficult mailings I've written because one size
+does not fit all. I am in the United States and methods that may work
+in the US may not work elsewhere in the world. I will give you some very
+general approaches to seeking jobs and ask if you have methods that have
+worked for you in the US and, especially, in other parts of the world,
+please reply and let me know what those methods are. Similarly, if you
+have technical cloud engineering resources that you've found helpful
+to expand your knowledge of cloud engineering and make new contacts in
+your part of the world, I would like to hear about those, too. I want
+to share that information with all of you in a future message.
+
+According to "What Color Is Your Parachute," by Richard Nelson Bolles,
+hiring managers hire people they know or people known by people they
+know. Understanding this is your key. Use something like LinkedIn
+(https://www.linkedin.com/feed/) in order to find people doing the kind
+of work that you want to do. Even better, if you attend a conference or
+use an online resource where you can meet people doing the kinds of work
+you want to do, become friends with them. Ask them about the work they
+are doing. Mention the types of technologies you enjoy working with as
+part of the Bootcamp and ask what else you need to learn to do this type
+of work. This advice is very cultural, but generally, do not ask for a
+job; usually, this puts people off, thinking this is the only reason you
+are talking with them. You are trying to establish a relationship that
+is both good for you and your new colleague. You may want to ask them
+what companies in the area of the world you are interested in working
+are doing the type of work that you seek. Investigate companies where
+you would like to work. Use search engines to find out more about what
+the company produces and the culture of that company. Will you fit in
+the culture? If not, you may end up miserable in your job and looking
+for a new one in just a few months.
+
+All of this comes under the umbrella of "networking" (but not the
+networking that most cloud engineers work with!). I make this sound easy,
+but it is not necessarily easy. Many of us are introverts by nature, and
+contacting new people, especially face to face, is scary. Making these
+contacts is an investment; don't take this lightly. As I mentioned above,
+this should be beneficial for both of you! When you see something that
+might interest a contact, send them a link with a short note. If you
+read something about their company, drop them a line asking about it.
+
+At some point in time, your contacts may be made aware of a new opening
+or may even be asked if they know of people who would be a good fit
+for an opening at their company (or even other companies from their
+contacts). This gives you the advantage of being known by someone a
+hiring manager knows.
+
+You may want to work with a recruiter, or what we often call a
+"headhunter" in the US. One resource I have followed for years
+is Nick Corcodilos and his online column, Ask The Headhunter
+(https://www.asktheheadhunter.com/). Nick provides a free newsletter that
+you may consider signing up to receive. About a month ago, Nick wrote,
+
+What makes this good for you is that you don’t need a headhunter
+(much less Indeed!). You just need to do what headhunters do: Rely on
+credible referrals.
+
+Participate in your professional community. Seek out the most skilled,
+talented, respected workers--the ones others turn to for opinions,
+advice and help. Hang out with them. Get to know them. Help them get to
+know you. (Don’t forget to be really good at the work you do.)
+
+Sound familiar? The above mentions the job site, Indeed
+(https://www.indeed.com/), a very popular job site in the US. You may
+have similar job sites in your country. Again, the ideal method is to
+research companies you wish to work for. Sometimes new positions are
+created for you that don't exist in any online job site!
+
+As I mentioned at the beginning of this message, my approaches in the US
+may not help you in Europe, Asia, Africa, South America, or Oceania (or
+even other parts of North America)! I would like to hear about the methods
+and resources you use in your part of the world. I sincerely wish you good
+luck with your career as you work through the Cloud Engineer Bootcamps.
+
+Remember, never stop learning!

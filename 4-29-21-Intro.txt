@@ -1,0 +1,46 @@
+Subject: Introduction to Mentor's Corner
+
+Hi there:
+
+I am the dedicated mentor for the Cloud Engineer Boot Camp and Advanced
+Cloud Engineer Boot Camp programs. As you have probably discovered,
+there is a lot of information you need to acquire and retain.
+
+To help you progress, I will periodically send out tips and suggestions.
+
+If you are making good progress and are on target to finish the program
+in 6 to 12 months- congratulations! Stay the course. You are doing
+great. Keep it up. My advice may not be as applicable to you. As the
+old adage goes, if it ain't broke, don't fix it!
+
+Here are a few tips to help you progress successfully:
+
+To avoid feeling overwhelmed, focus on where you are in the set of courses
+and work, step by step, through that course. Worry about future courses
+when you get there.
+
+Schedule times and days when you will work through a course or practice
+for an exam. Involve your family and friends. Let them know it is
+important for you to carve out time for yourself.
+
+Work through an entire chapter, including lab practice, versus working for
+30 or 60 minutes and stopping mid-chapter. This way, you can capture and
+absorb the whole concept rather than needing several minutes to figure
+out where you stopped and gather the context again.
+
+Reward yourself for working through a chapter and labs. Allow yourself
+to do things you enjoy when you have completed a work session.
+
+Learning Linux and Cloud concepts is a large task. I have more advice for
+doing this and will share those suggestions in future communications. If I
+can help with specific advice, reach out and contact me. Please remember
+that technical information should come from the Forums and the office
+hours, however, I can share tips to help you be successful in the Cloud
+Boot Camp programs. Until next time, keep working on those courses
+and Labs!
+
+Regards,
+
+Kevin--Bootcamp Mentor
+
+bootcampmentor@linuxfoundation.org
